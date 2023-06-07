@@ -10,8 +10,7 @@ def lb_to_kg(pounds):
     return kg
 
 # Streamlit app
-st.header("Welcome to BMI Calculator "\
-         "And Unit Converter")
+st.header("Welcome to BMI Calculator")
 
 st.subheader("BMI Calculator")
 
